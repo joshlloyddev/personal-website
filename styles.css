@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    padding: 100px 0;
+}
+
+section {
+    margin-bottom: 50px;
+}
+
+footer {
+    margin-top: 50px;
+}
